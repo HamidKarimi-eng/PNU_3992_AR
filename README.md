@@ -2,7 +2,7 @@
 
 # حمید کریمی
 - [PNU_3992_AR](https://github.com/HamidKarimi-eng/PNU_3992_AR)
-- [Resume](http://hkarimi.sianatgostar.ir/) 
+- [زرومه](http://hkarimi.sianatgostar.ir/) 
 
 
 ## spring May Courses 1400/2021
