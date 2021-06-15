@@ -1,7 +1,7 @@
 # PNU_3992_AR
 
 # حمید کریمی
-- [امتحان پایان ترم مهندسي نرم افزارپيشرفته](https://github.com/HamidKarimi-eng/PNU_3992_AR)
+- [امتحان میان ترم و پایان ترم مهندسي نرم افزارپيشرفته](https://github.com/HamidKarimi-eng/PNU_3992_AR)
 - [زرومه](http://hkarimi.sianatgostar.ir/) 
 
 
