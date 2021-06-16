@@ -6,6 +6,7 @@
 - [زرومه](http://hkarimi.sianatgostar.ir/)
 - [JavaScript](https://www.sololearn.com/certificates/course/en/15121294/1024/landscape/png) 
 - [Html](https://www.sololearn.com/Certificate/1014-15121294/jpg)
+- [SQL](https://www.sololearn.com/certificates/course/en/15121294/1060/landscape/png)
 
 
 ## spring May Courses 1400/2021
